@@ -1,1 +1,1 @@
-# Terms
+Welcome to TinLab! We make two things: helpful tools that make your digital life easier and fun "idle" games that you can play anytime. We believe apps should be easy to use and look great. Whether you need a utility to get things done or a game to relax with, we build everything with a clean, modern style that anyone can enjoy. What we do: Helpful Tools: Simple apps built to save you time. Easy Games: Fun idle games that keep going even when you're busy. Modern Design: Clean blue-and-white looks that are easy on the eyes. Come see what we're building in the lab!
